@@ -23,7 +23,7 @@ export default function AboutPage() {
         <div className="text p-4 sm:p-8 md:p-14 lg:p-18 xl:p-24 flex flex-col gap-24 md:gap-32 lg:gap-48 xl:gap-64 lg:w-2/3 lg:pr-0 lg:w-1/2">
           <div className="bio flex flex-col gap-12 justify-center">
             <h1 className="font-bold text-2xl">BIOGRAPHY</h1>
-            <p className="text-lg">Hi there, I'm Burak! 👋 With nearly 3 years of hands-on experience, I'm a dedicated Full Stack Developer specializing in Java and JavaScript. My expertise spans building scalable microservices and RESTful APIs using Spring Framework and integrating with databases like PostgreSQL and MongoDB. I'm proficient in modern frontend frameworks such as React.js, Next.js, Angular, and Vue.js, and adept in deploying applications using Docker, Kubernetes, and AWS. Let's collaborate to transform ideas into innovative solutions!</p>
+            <p className="text-lg">Hi there, I am Burak! 👋 With nearly 3 years of hands-on experience, I am a dedicated Full Stack Developer specializing in Java and JavaScript. My expertise spans building scalable microservices and RESTful APIs using Spring Framework and integrating with databases like PostgreSQL and MongoDB. I am proficient in modern frontend frameworks such as React.js, Next.js, Angular, and Vue.js, and adept in deploying applications using Docker, Kubernetes, and AWS. Let&apos;s collaborate to transform ideas into innovative solutions!</p>
             <span className="italic">Full Stack Developer</span>
             <div className="self-end">Ali Burak KAYA</div>
           </div>

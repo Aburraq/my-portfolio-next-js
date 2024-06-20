@@ -16,7 +16,7 @@ export default function HomePage() {
       <div className="h-1/2 lg:h-full lg:w-1/2 flex flex-col gap-8 items-center justify-center text-center">
         <h1 className="text-4xl md:text-6xl  font-bold">Code with Passion, Create with Purpose</h1>
 
-        <p className="md:text-xl text-justify">Hey there, I'm Burak! A passionate Full Stack Developer specializing in Java and JavaScript. With expertise in building robust APIs, microservices architecture, and crafting interactive web applications using frameworks like React.js and Next.js. Let's innovate and build together!</p>
+        <p className="md:text-xl text-justify">Hey there, I am Burak! A passionate Full Stack Developer specializing in Java and JavaScript. With expertise in building robust APIs, microservices architecture, and crafting interactive web applications using frameworks like React.js and Next.js. Let&apos;s innovate and build together!</p>
 
         <div className="flex gap-4 w-full justify-center items-center">
         <Link href={"./portfolio"}><button className="p-4 rounded-lg ring-1 ring-black bg-black text-white">Check My Portfolio</button></Link>
