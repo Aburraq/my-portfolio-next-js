@@ -17,6 +17,7 @@
 }
 
 body {
+  overflow-x: hidden;
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
       to bottom,
@@ -30,4 +31,32 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+/* Works in Chrome, Edge, and Safari */
+
+/* Track */
+::-webkit-scrollbar {
+  width: 6px; /* width of the entire scrollbar */
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #ffa0a0; /* color of the scrollbar handle */
+  border-radius: 10px; /* roundness of the handle */
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #8080ff; /* color of the scrollbar handle on hover */
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f0f0f0; /* color of the track */
+  border-radius: 10px; 
+}
+
+::-webkit-scrollbar-thumb {
+  padding: 5px;
 }
