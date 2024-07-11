@@ -42,10 +42,10 @@ const items = [
   {
     id: 5,
     color: "from-blue-200 to-blue-600",
-    title: "30 Day Coding Challenge",
-    desc: "From developing a joke app using APIs and mastering array and string methods in JavaScript, to crafting interactive web elements like a review page design and a rock-paper-scissors game, each project pushed my skills further. Embarked on creating diverse applications, from practical tools like a weather app and a QR code generator to creative ventures like a Spotify-like music player.",
+    title: "Next Wave",
+    desc: "Next wave is an education application that can establish connctivity between ADMIN, MANAGER, ASSISTANTMANAGER, TEACHER, and STUDENT role typed people.",
     img: "https://images.pexels.com/photos/34950/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
-    link: "https://github.com/Aburraq/me-myRandomExercises",
+    link: "https://github.com/Aburraq/next-wave-education-app",
   },
 ];
 
